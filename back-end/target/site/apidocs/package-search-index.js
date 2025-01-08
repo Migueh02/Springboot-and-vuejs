@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"grupo2.PractcaFW"},{"l":"grupo2.PractcaFW.Controlador"},{"l":"grupo2.PractcaFW.Modelo"},{"l":"grupo2.PractcaFW.REPOSITORIO"}];updateSearchResults();

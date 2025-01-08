@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"grupo2.PractcaFW.Modelo","l":"ESTUDIANTE"},{"p":"grupo2.PractcaFW.Controlador","l":"ESTUDIANTE_CONTROLADOR"},{"p":"grupo2.PractcaFW.REPOSITORIO","l":"ESTUDIANTE_CRUD_REPOSITORIO"},{"p":"grupo2.PractcaFW","l":"PracticaFwProjectCrudApplication"}];updateSearchResults();
